@@ -15,7 +15,7 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Something Ant Design Docs Experiment
+        Massive Ant Design Docs Experiment!!!
       </p>
       <h2>A gatsby starter to create documentation websites</h2>
       <p>
